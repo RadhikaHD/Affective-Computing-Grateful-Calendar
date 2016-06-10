@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="Themes">
+        <item name="coloringButtonStyle">@style/Widget.Button</item>
+        <item name="colorButtonStyle">@style/Widget.Button.ColorButton</item>
+    </style>
+</resources>

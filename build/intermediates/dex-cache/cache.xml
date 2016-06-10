@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/RadhikaHD/Dropbox/work (2)/grateful/app/libs/androidsoft-utils-1.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ee0c6cc3eb1e80e8c34f0dcdf549bd9291dbf24">
+        <dex dex="/Users/RadhikaHD/Dropbox/work (2)/grateful/app/build/intermediates/pre-dexed/debug/androidsoft-utils-1.0.0-f2ff84bfa80763ae04d4e5a3e49da81d9f5394c9.jar" />
+    </item>
+    <item
+        jar="/Users/RadhikaHD/Dropbox/work (2)/grateful/app/libs/androidsoft-credits-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2bf16867fa0e655068a5a64a54a9a91765c56d7d">
+        <dex dex="/Users/RadhikaHD/Dropbox/work (2)/grateful/app/build/intermediates/pre-dexed/debug/androidsoft-credits-1.1.0-1ebe795b526f489d9fbe0bd9716c1c1424c20e30.jar" />
+    </item>
+
+</items>

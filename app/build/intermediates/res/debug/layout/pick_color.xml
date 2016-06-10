@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright (C) 2010 Peter Dornbach.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+--> 
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:coloring="http://schemas.android.com/apk/res/com.natasha.grateful"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+              
+	<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	             android:layout_width="fill_parent"
+	             android:layout_height="wrap_content"
+	             android:layout_centerInParent="true">
+	
+	    <TableRow>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#8B0000"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF0000"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FA8072"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FFC0CB"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FFDEAD"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#F4A460"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#D2691E"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#8B4513"/>
+	    </TableRow>
+	
+	    <TableRow>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#800080"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#C71585"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF1493"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF69B4"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FFFF00"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FFD700"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FFA500"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF4500"/>
+	    </TableRow>
+	
+	    <TableRow>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#4B0082"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#9400D3"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#FF00FF"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#EE82EE"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#F0E68C"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#BDB76B"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#808000"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#556B2F"/>
+	    </TableRow>
+	    <TableRow>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#483D8B"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#6A5ACD"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#4682B4"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#B0C4DE"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#98FB98"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#32CD32"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#228B22"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#006400"/>
+	    </TableRow>
+	    <TableRow>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#000080"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#0000FF"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#00BFFF"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#87CEEB"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#ADFF2F"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#00FF00"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#708090"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#2F4F4F"/>
+	    </TableRow>
+	    <TableRow>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#008080"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#00CED1"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#00FFFF"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#7FFFD4"/>
+            <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             coloring:color="#FFFFFF"/>
+            <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             coloring:color="#C0C0C0"/>
+	        <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+	                                         android:layout_height="wrap_content"
+	                                         coloring:color="#808080"/>
+            <com.natasha.grateful.ui.widget.ColorButton
+                android:layout_width="wrap_content"
+                                             android:layout_height="wrap_content"
+                                             coloring:color="#404040"/>
+	    </TableRow>
+	
+	</TableLayout>
+</RelativeLayout>   <!-- From: file:/Users/RadhikaHD/Dropbox/work%20(2)/grateful/app/src/main/res/layout/pick_color.xml -->
